@@ -854,6 +854,10 @@ a.anchor-communicate:hover {
     height: 10%;
   }
 
+  .small-chat-menu {
+    display: none !important;
+  }
+
   .foto-section {
     width: 50%;
     height: calc(100% - 60px);
