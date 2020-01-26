@@ -1,1 +1,1 @@
-# swipex-project
+# Capstone project: swipex App
