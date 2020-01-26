@@ -15,27 +15,27 @@
 
 ## Swipex App background
 
-### It is a social networking that helps to find new acquaintances/friends.This App will help you quickly and conveniently find new friends who are close to you, thanks to the swipex app modern technology.
+It is a social networking that helps to find new acquaintances/friends.This App will help you quickly and conveniently find new friends who are close to you, thanks to the swipex app modern technology.
 
 ## Problem solution that swipex App is bring to the social networking market.
 
-### Aready there are many similar applications, Swipex app needed to bring a convenient and at the same time attractive interface without violating the UI/UX strategy.
+Aready there are many similar applications, Swipex app needed to bring a convenient and at the same time attractive interface without violating the UI/UX strategy.
 
-### After parsing all the critical section of the application, Swipex App have a design that met all the criteria at the same time creating attractive and interactive design.
+After parsing all the critical section of the application, Swipex App have a design that met all the criteria at the same time creating attractive and interactive design.
 
 ## Swipex App features
 
 ## [Home page:](https://swipex-app.netlify.com/index.html)
 
-### This screen is the starting position of the entire application, it contains a photo of the user and his initial data.Also at the top of the site has a posted picture tape, which contains user who are recommend by the app base on your interest and frinds requirements.And also the history of the last definition.
+This screen is the starting position of the entire application, it contains a photo of the user and his initial data.Also at the top of the site has a posted picture tape, which contains user who are recommend by the app base on your interest and frinds requirements.And also the history of the last definition.
 
 ## [Massages Page](https://swipex-app.netlify.com/messages.html)
 
-### A message system has been developed in which you can assign new meetings,give gifts and more, and a call system has also been added that allows user to call each other.The exchange of massages is possible after the user accept your request.
+A message system has been developed in which you can assign new meetings,give gifts and more, and a call system has also been added that allows user to call each other.The exchange of massages is possible after the user accept your request.
 
 ## [Chats page](https://swipex-app.netlify.com/chats.html)
 
-### In this page you can view massage details of each indiviual user where you can share pictures, gifts, emoji and more.
+In this page you can view massage details of each indiviual user where you can share pictures, gifts, emoji and more.
 
 ## Features that am pround of in this project
 
