@@ -53,11 +53,11 @@ Nice scrolling effect through friend massage and chats
 
 ## Credit & Attribution to UI Designer
 
-### The capstone project form Microverse was base on the UI design form [Behance.net](https://www.behance.net/gallery/70285515/Swipex-This-application-for-dating)
+The capstone project form Microverse was base on the UI design form [Behance.net](https://www.behance.net/gallery/70285515/Swipex-This-application-for-dating)
 
-### The UI Design Name: [Swipex app](https://www.behance.net/gallery/70285515/Swipex-This-application-for-dating)
+The UI Design Name: [Swipex app](https://www.behance.net/gallery/70285515/Swipex-This-application-for-dating)
 
-### It multiple owned Application, list of owners
+It multiple owned Application, list of owners
 
 1. [Vlad Ermakov](https://www.behance.net/ermalength)
 2. [Fireart Studio](https://www.behance.net/fireart)
