@@ -19,7 +19,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dc4b0a18-85f6-48dc-b437-695ecc5c4622/deploy-status)](https://app.netlify.com/sites/swipex-app/deploys)
 
-## [Swipex](https://swipex-app.netlify.com/?_ga=2.200980590.1755618137.1580053045-1733107789.1568969642)
+## [Swipex-App](https://swipex-app.netlify.com/?_ga=2.200980590.1755618137.1580053045-1733107789.1568969642) -----------------[Swipex-UI](https://www.behance.net/gallery/70285515/Swipex-This-application-for-dating)
 
 ## Swipex App background
 
