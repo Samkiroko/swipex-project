@@ -456,6 +456,8 @@ a.anchor-bubble-chat > .chat-elipsis > .status-container > h5 {
   width: 100%;
   height: 55px;
   border-top: 1px #eff0f2 solid;
+  background-color: #fff;
+  position: relative;
 }
 
 #chat-detail {
@@ -724,25 +726,18 @@ div.chat-elipsis {
     color: #fff;
   }
 }
+
 /* small screen footer */
-.footer-chat-list {
-  width: 100%;
-  height: 55px;
-  border-top: 1px #eff0f2 solid;
-}
-.footer-chat-list {
-  background-color: #fff;
-  position: relative;
-}
+
 .small-chat-menu {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 33.33%;
   height: 100%;
-  width: 20%;
   position: relative;
 }
+
 .small-footer-icon {
   color: #c2c8ce;
   font-size: 2vh;
