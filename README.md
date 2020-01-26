@@ -11,6 +11,8 @@
 
 ## Swipex App Live Demo
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc4b0a18-85f6-48dc-b437-695ecc5c4622/deploy-status)](https://app.netlify.com/sites/swipex-app/deploys)
+
 ## [Swipex](https://swipex-app.netlify.com/?_ga=2.200980590.1755618137.1580053045-1733107789.1568969642)
 
 ## Swipex App background
@@ -27,14 +29,18 @@ After parsing all the critical section of the application, Swipex App have a des
 
 ## [Home page:](https://swipex-app.netlify.com/index.html)
 
+![image](https://user-images.githubusercontent.com/43377799/73140508-9f453980-408a-11ea-8511-93e321910b6f.png)
 This screen is the starting position of the entire application, it contains a photo of the user and his initial data.Also at the top of the site has a posted picture tape, which contains user who are recommend by the app base on your interest and frinds requirements.And also the history of the last definition.
 
 ## [Massages Page](https://swipex-app.netlify.com/messages.html)
+
+![image](https://user-images.githubusercontent.com/43377799/73140477-5f7e5200-408a-11ea-9c60-96e3f13e6769.png)
 
 A message system has been developed in which you can assign new meetings,give gifts and more, and a call system has also been added that allows user to call each other.The exchange of massages is possible after the user accept your request.
 
 ## [Chats page](https://swipex-app.netlify.com/chats.html)
 
+![image](https://user-images.githubusercontent.com/43377799/73140523-cbf95100-408a-11ea-8d75-96908216d52a.png)
 In this page you can view massage details of each indiviual user where you can share pictures, gifts, emoji and more.
 
 ## Features that am pround of in this project
