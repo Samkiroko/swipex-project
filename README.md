@@ -9,6 +9,12 @@
 - HTML5
 - CSS3
 
+## Code testing cleaning tools
+
+- Stylelint (CSS3)
+- W3C Validator (HTML5)
+- Stickler (CSS3 in the repository)
+
 ## Swipex App Live Demo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dc4b0a18-85f6-48dc-b437-695ecc5c4622/deploy-status)](https://app.netlify.com/sites/swipex-app/deploys)
