@@ -538,7 +538,7 @@ div.chat-elipsis {
 }
 
 .fa-phone-alt,
-.fa-ellipsis-h {
+.fa-arrow-left {
   color: #c2c8ce;
   font-size: 0.95vw;
   width: 1vw;
@@ -681,12 +681,12 @@ div.chat-elipsis {
   }
 
   .fa-phone-alt,
-  .fa-ellipsis-h {
+  .fa-arrow-left {
     font-size: 2vh;
     width: 2.5vh;
     height: 2.5vh;
     margin: 0 5.5%;
-    color: black;
+    color: #c2c8ce;
   }
 
   .contact-chat-title {
@@ -695,8 +695,8 @@ div.chat-elipsis {
     align-items: center;
   }
 
-  .contact-chat-title > h2 {
-    font-size: 2.8vh;
+  .contact-chat-title > h1 {
+    font-size: 10px;
   }
 
   .online-text {
